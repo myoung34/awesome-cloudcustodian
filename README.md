@@ -9,6 +9,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 - [Actions](#actions)
 - [Deployments](#deployments)
 - [Capital 1 Examples](#examples)
+- [Expanded Schema](#schema)
 
 ---
 
@@ -36,3 +37,9 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 *Example Policies Programatically Extracted From Capital Ones Github*
 
 * [jtroberts83/Cloud-Custodian/blob/master/Policies/GenericExamples/CapitalOnesPolicyExamples.txt](https://github.com/jtroberts83/Cloud-Custodian/blob/master/Policies/GenericExamples/CapitalOnesPolicyExamples.txt)
+
+# Schema
+
+*Cloud Custodian full schema expanded out to filters and actions*
+
+* [jtroberts83/Cloud-Custodian/blob/master/schema_expander/schema_quick_ref.txt](https://github.com/jtroberts83/Cloud-Custodian/blob/master/schema_expander/schema_quick_ref.txt)
