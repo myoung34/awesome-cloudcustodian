@@ -18,6 +18,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 *Examples of rules*
 
 * [myoung34/cloudcustodian-rules](https://github.com/myoung34/cloudcustodian-rules)
+* [GSA/devsecops-cloud-custodian-rules](https://github.com/GSA/devsecops-cloud-custodian-rules)
 
 # Actions
 
