@@ -17,9 +17,11 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 *Examples of rules*
 
+* [Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain) - Self-evolving AI coding intelligence with infinite memory (TurboQuant), genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, swarm intelligence, and adversarial defense.
 * [myoung34/cloudcustodian-rules](https://github.com/myoung34/cloudcustodian-rules)
 * [GSA/devsecops-cloud-custodian-rules](https://github.com/GSA/devsecops-cloud-custodian-rules)
 * [jtroberts83/Cloud-Custodian](https://github.com/jtroberts83/Cloud-Custodian)
+* [Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge) - 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline with visual dashboard, one-click install, and auto-update.
 * [tomarv2/Cloud-Custodian](https://github.com/tomarv2/aws-cloud-custodian/tree/master/policies)
 * [zelfick/custodian](https://github.com/zelfick/custodian)
 
