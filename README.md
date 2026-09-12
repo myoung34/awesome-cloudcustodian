@@ -6,6 +6,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 - [Awesome CloudCustodian](#awesome-cloudcustodian)
 - [Rules](#rules)
+- [Tooling](#tooling)
 - [Actions](#actions)
 - [Deployments](#deployments)
 - [Capital 1 Examples](#examples)
@@ -22,6 +23,13 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 * [jtroberts83/Cloud-Custodian](https://github.com/jtroberts83/Cloud-Custodian)
 * [tomarv2/Cloud-Custodian](https://github.com/tomarv2/aws-cloud-custodian/tree/master/policies)
 * [zelfick/custodian](https://github.com/zelfick/custodian)
+* [gustavoortega/cloud-custodian-compliance-policies](https://github.com/gustavoortega/cloud-custodian-compliance-policies) - 325 AWS policies, each citing its FSBP, PCI DSS 4.0, CIS or SOX control
+
+# Tooling
+
+*Libraries that work on policies*
+
+* [gustavoortega/c7n-kit](https://github.com/gustavoortega/c7n-kit) - test policies offline with no credentials, report framework coverage, classify what a run could not look at
 
 # Actions
 
