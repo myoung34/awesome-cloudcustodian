@@ -23,7 +23,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 * [jtroberts83/Cloud-Custodian](https://github.com/jtroberts83/Cloud-Custodian)
 * [tomarv2/Cloud-Custodian](https://github.com/tomarv2/aws-cloud-custodian/tree/master/policies)
 * [zelfick/custodian](https://github.com/zelfick/custodian)
-* [gustavoortega/cloud-custodian-compliance-policies](https://github.com/gustavoortega/cloud-custodian-compliance-policies) - 325 AWS policies, each citing its FSBP, PCI DSS 4.0, CIS or SOX control
+* [gustavoortega/cloud-custodian-compliance-policies](https://github.com/gustavoortega/cloud-custodian-compliance-policies) - 325 AWS policies, each citing its FSBP, PCI DSS 4.0, CIS or SOX control. [Browsable](https://gustavoortega.github.io/cloud-custodian-compliance-policies/): run a policy against a resource and see which condition decided it
 
 # Tooling
 
